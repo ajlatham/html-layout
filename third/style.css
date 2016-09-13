@@ -1,0 +1,52 @@
+.container {
+	width: 100%;
+	height: 100vh;
+}
+.top {
+	width: 100%;
+	height: 15vh;
+	background: gray;
+
+}
+.mini {
+	float: left;
+	width: 9%;
+	height: 80%;
+	background: url('https://hd.unsplash.com/photo-1469826834904-e92950ee5bf9') no-repeat center;
+	background-size: contain;
+	margin: 10px;
+
+}
+.textbox {
+	width: 100%;
+	height: 25vh;
+	background: white;
+	text-align: center;
+	padding: 20px 20px 0px 20px;
+	box-sizing: border-box;
+
+}
+.third {
+	width: 100%;
+	height: 15vh;
+	background: blue;
+
+}
+.fourth {
+	width: 100%;
+	height: 15vh;
+	background: aqua;
+
+}
+.fifth {
+	width: 100%;
+	height: 15vh;
+	background: lightgreen;
+
+}
+.sixth {
+	width: 100%;
+	height: 15vh;
+	background: yellow;
+
+}
